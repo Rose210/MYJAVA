@@ -1,6 +1,5 @@
 package july2021;
 
-import java.util.Scanner;
 
 
 
